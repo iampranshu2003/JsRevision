@@ -12,4 +12,6 @@ This repository contains a simple **Currency Converter** web application built w
 - Updates exchange rates and calculates converted amounts dynamically.
 - **User-friendly interface** with a clean and responsive design.
 
+### UI Overview
+![Currency Converter UI](WhatsApp Image 2025-01-05 at 03.40.37_a63a6797.jpg)
 ---
