@@ -13,5 +13,5 @@ This repository contains a simple **Currency Converter** web application built w
 - **User-friendly interface** with a clean and responsive design.
 
 ### UI Overview
-![Currency Converter UI](WhatsApp Image 2025-01-05 at 03.40.37_a63a6797.jpg)
+![WhatsApp Image 2025-01-05 at 03 40 37_a63a6797](https://github.com/user-attachments/assets/3cbeac40-d0d3-4dc6-989d-5d7fedf6c989)
 ---
